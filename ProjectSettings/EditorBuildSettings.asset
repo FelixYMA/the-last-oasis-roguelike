@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameStart.unity
+    guid: 461e64135d7e70c4c82364d5427f3f11
+  - enabled: 1
+    path: Assets/Scenes/TransitionScene.unity
+    guid: 8d73aab7e472f5040948f1107b9c64c0
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: d1d6927d91a8f994da162888e2c933f0
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: fb5a2344304124a479645f7ef8383590
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 529e055ee4fd5514dbcf882d51702e68
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 03ef66122d833bc48b4a4df6dce4e956
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 7b9e9ddaef9ea414bb1ec8e64ffc24e2
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: ae99a33e06a530740911676c7f52b9f0
+  - enabled: 1
+    path: Assets/Scenes/VictoryEnding.unity
+    guid: a8ba2444990e38046954c2087a117a05
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
