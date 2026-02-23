@@ -62,6 +62,7 @@ Implemented using common Unity 2D systems:
 
 ### Option B — Download a build (optional)
 Windows build: available in Releases (v1.0).
+> https://github.com/FelixYMA/the-last-oasis-roguelike/releases/tag/v1.0
 
 
 ---
