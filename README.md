@@ -8,7 +8,7 @@ A pixel-art roguelike action game prototype built in **Unity**. Players explore 
 
 ## Demo
 - **Gameplay video:** available under **GitHub Releases** (recommended)  
-  *(Replace with your Release URL once published.)*
+  > https://github.com/FelixYMA/the-last-oasis-roguelike/releases/tag/v1.0-demo
 
 ---
 
