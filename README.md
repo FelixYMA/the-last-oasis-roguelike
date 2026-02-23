@@ -61,8 +61,8 @@ Implemented using common Unity 2D systems:
 3. Open the main scene and press **Play**
 
 ### Option B — Download a build (optional)
-If a Windows build is provided, download it from **Releases** and run the executable.
-*(A build is optional; the Unity project itself is sufficient for evaluation.)*
+Windows build: available in Releases (v1.0).
+
 
 ---
 
