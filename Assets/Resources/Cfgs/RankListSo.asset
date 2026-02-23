@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4f0e851c6a949cdb1a367bfe0ad2c72, type: 3}
+  m_Name: RankListSo
+  m_EditorClassIdentifier: 
+  dict:
+    _serializedList:
+    - Key: 1
+      Value: 1340
+    - Key: 2
+      Value: 23
+    - Key: 3
+      Value: 33
+    - Key: 4
+      Value: 44
+    - Key: 5
+      Value: 55
+    - Key: 6
+      Value: 66
+    - Key: 11
+      Value: 111
+    - Key: 111
+      Value: 11
+    - Key: 111111
+      Value: 1341
+    - Key: 222222
+      Value: 1339
+    - Key: test1
+      Value: 1222
+    - Key: test2
+      Value: 2222
